@@ -3,4 +3,4 @@
 # Uncomment this line if you're using Swift
 # use_frameworks!
 
-pod "Trustbadge", "~> 0.2.0-beta"
+pod "Trustbadge", "~> 0.2.0"
